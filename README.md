@@ -1,1 +1,1 @@
-# Data-visualization-Lab
+# DATA_VISUALIZATION_LAB
